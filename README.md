@@ -26,3 +26,5 @@ Strengthened communication skills by crafting empathetic and clear follow-up com
 - Critical Thinking
   
 ![View Certificate]https://github.com/Nthabi23/nthabiseng.github.io/blob/main/Forage%20Service%20desk%20job.pdf
+
+![forage-certificate]Forage Service desk job.pdf
